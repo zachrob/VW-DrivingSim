@@ -1,0 +1,10 @@
+Zach Roberts - zachrob@vt.edu
+Researching matlab implementation
+
+Mike Fuller - michf09@vt.edu
+Researching hardware and controls
+
+Dirk Hortensius - dirker27@vt.edu
+Researching visualization options
+
+We do not currently have defined roles in the project.

@@ -1,0 +1,5 @@
+Background Research Plan
+
+Michael is researching the hardware controls and haptic feedback
+Dirk is researching options for simulation visualization, specifically UDK and Unity.
+Zach is researching matlab-specific implementations of driving simulations

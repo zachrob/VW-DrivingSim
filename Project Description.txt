@@ -1,0 +1,1 @@
+We are developing a matlab-based driving simulator to showcase potential predictive performance enhancement software to be used in vehicles by Volkswagen on a team headed by Dr. Ferris and involving graduate researchers working with Mechanical Engineering.  Our team is specifically in charge of visualizing the simulation and implementing real-time controls.

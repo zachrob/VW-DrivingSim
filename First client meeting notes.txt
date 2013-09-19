@@ -1,0 +1,21 @@
+Driving Simulator for Volkswagon
+develop location aware intervention strategy to predict vehicle course to prevent accidents
+ideally use real vehicle, attached to SIMULINK or other onboard computing, interacting with our intervention code
+real vehicle not plausible at the moment, use CarSim (non-linear vehicle model)
+need driver input
+	throttle
+	brake
+	steering
+	realistic interface
+	REAL TIME
+need VR environment
+	racetrack?
+	highway?
+Look into gettin more people/equipment if necessary
+Need to have a course that will showoff this intervention strategy, not just simple turns
+	deer/pedestrian
+Oct. 24, meeting with VW higher-ups
+Oct. 15, have some sort of deliverable to show them
+Fallback: make video in CarSim
+
+CarSim - made to emulate real vehicles
