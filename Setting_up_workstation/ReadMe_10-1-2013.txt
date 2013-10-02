@@ -1,0 +1,8 @@
+After deciding on the Logitech G27 wheel and the rFactor (hopefully rFactor Pro) development
+environment during the team meeting on Friday 9/27/2013, the G27 steering wheel was ordered.
+
+It arrived Tuesday 10/1/2013, and the pictures within this folder are of our workstation setup
+with the controller. It is also worth noting that the controller came (by chance) with a
+commercial copy of the original rFactor program. This is useful, since we are still waiting 
+to hear back from the rFactor Pro team about a liscense, and with the commercial rFactor
+program, we can design at least a basic working prototype of our design.
