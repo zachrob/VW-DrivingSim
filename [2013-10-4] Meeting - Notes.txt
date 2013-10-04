@@ -1,0 +1,61 @@
+Date: October 4, 2013
+
+
+INTERFACE DESIGN
+--------------------------------------------------
+(see pic)
+
+
+TRACK DESIGN
+--------------------------------------------------
+- Needs to encourage speed
+- Needs to cause situation where human driver is unaware of impending danger
+	- Said situation must be where Computer is aware of impending danger
+
+Currently being built by Bryan:
+	1 - Straightaway/Runway
+	2 - Circle
+	3 - "Nascar" Curcuit (oblong oval w/ banks)
+	4 - True course (Top Gear)
+
+- Need to figure out rFactor track processing so Brandon can build both rFactor + Matlab model
+
+
+PRESENTATION (10/18/2013)
+--------------------------------------------------
+
+PPt:
+	- Demonstrate crash stats
+	- Illustrate potential effectiveness of PC system in prevention
+	- Proposed CarSim Demo:
+		1 - Car fails to slow down enough for turn, CRASH
+		2 - Car w/ PC slows down for same turn, survives.
+
+
+LABOR DIVVY
+----------------------------------------------------
+TRACK: Bryan Davi(d)son + Dirk
+DRIVER: Michael + Sukhwan
+VEHICLE: Zach + Sukhwan
+
+
+ADMINISTRATIVE
+--------------------------------------------------
+- Acquiring Commercial license for rFactor immediately following meeting
+
+
+DATA PRESENTATION
+----------------------------------------
+- Light to show when PC on / taking action (dashboard)
+- Graph generation (excell?)
+- 
+
+
+
+TO DO FOR NEXT WEEK
+----------------------------------------------------
+Basic rFactor proof o' concept
+- Car Behavior: kill engine ~10 mph
+- Track: basic straightaway w/ wall
+- Controls: pass to both rFactor + external file?
+
