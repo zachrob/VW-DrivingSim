@@ -1,0 +1,63 @@
+Here is a summary of what has happened so far:
+
+		*Initial team meeting
+		*OVer view of enitre project
+		*Discussed desired simulation model
+		*Discussed pros and cons of CarSim
+		*Discussed possible user input interfaces
+			(Logitech controllers, other driving wheels)
+
+		*Researched development options and design.
+
+		*Discussed use of Unity or other 3rd party graphics
+			environments (i.e. Unreal) to develop visuals
+			for simulation.
+		*Wrote proposals for various for development direction:
+			I: CarSim
+				+ Realistic engine simulation
+				- Does not allow for interaction, essentially removing prospect of any human-driven simulation
+			II: SimuLink 3D
+				+ Works natively w/ MatLab
+				- Requires Licensing
+				- Looks like crap
+			III: Unity 3D
+				+ Easy learning curve
+				- Communication challenge b/w Unity + MatLab (solvable)
+				+ Pretty
+
+		*Discovered rFactor software that has been used in
+			similar simulation research.
+		*Proposed use of rFactor/rFactor Pro for development
+		*Decided to use rFactor Pro (if a license is cheap
+			enough, and commercial rFactor otherwise).
+			9/27/2013
+		*Decided to use Logitech G27 Force-Feedback racing wheel
+			for user input and ordered it. 9/27/2013
+		*Set up space in lab with computer and racing wheel
+			for development and testing. 10/1/2013.
+
+		*Split focus of team into three areas:
+			- Dirk: work on track design and creation
+				with Brian.
+			- Zach: work on vehicle model connections
+				between rFactor and Matlab with Sukhuan.
+			- Michael: Work on recieving user input in
+				Matlab model with Sukhuan (either
+				from rFactor, or directly from controller).
+
+	
+		*Discussed current state of rFactor
+		*Decided to attempt using rFactor 2
+			instead of rFactor Pro due to price tag
+
+
+
+
+Need to do:
+	* Get what we have of Matlab model connected to rFactor
+		as proof of concept.
+	* Complete a presentation for class (10/10/2013) and VW
+	* Ask Dr. Ferris to inquire with VW whether or not they have
+		any car simulation liscenses we can use.
+	* Discuss clear requirements/deliverables with Dr. Ferris for
+		THIS semester.
