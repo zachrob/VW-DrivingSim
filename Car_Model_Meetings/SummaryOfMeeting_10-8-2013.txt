@@ -1,0 +1,15 @@
+Meeting: 10/8/2013   12:30-2:00 PM
+Attendees: Michael, Zach, Sukhuan
+
+	- Discussed values model would need from rFactor
+		to properly model prevention strategy
+	- Discussed options for sending information back to 
+		rFactor.
+	- Drew up some diagrams (see pictures in folder).
+
+	- Discussed inherent limitations with rFactor commercial
+	- Reevaluated pros and cons of previously dismissed options
+	- Decided to schedule a meeting with entire team for
+		ll:15 AM 10/9/2013, to discuss milestones/deliverables,
+		current options for presentation and final product.
+	
