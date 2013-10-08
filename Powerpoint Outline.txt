@@ -1,0 +1,13 @@
+Basic Outline of Presentation
+	Single-vehicle accident statistics
+		Large-scale statistics
+		Small-scale individual cases
+	"We can solve this with our system"
+	Basic Explanation of system
+		use road data to predict where problem areas are
+		Predict where the car will be in 10 seconds
+		adjust speed/other factors ahead of time to ensure that no accident occurs
+	Video demonstration
+	Plans
+		working on getting the system working in a driving simulator
+		hope to get it in an actual prototype vehicle within [timeline] and have it in production not long after.
