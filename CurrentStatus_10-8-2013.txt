@@ -1,7 +1,7 @@
 Here is a summary of what has happened so far:
 
 		*Initial team meeting
-		*OVer view of enitre project
+		*Over view of enitre project
 		*Discussed desired simulation model
 		*Discussed pros and cons of CarSim
 		*Discussed possible user input interfaces
@@ -34,7 +34,7 @@ Here is a summary of what has happened so far:
 		*Decided to use Logitech G27 Force-Feedback racing wheel
 			for user input and ordered it. 9/27/2013
 		*Set up space in lab with computer and racing wheel
-			for development and testing. 10/1/2013.
+			for development and testing. 10/1/2013. (pictures on site)
 
 		*Split focus of team into three areas:
 			- Dirk: work on track design and creation
@@ -61,3 +61,4 @@ Need to do:
 		any car simulation liscenses we can use.
 	* Discuss clear requirements/deliverables with Dr. Ferris for
 		THIS semester.
+	* Purchase software to use for development (currently rFactor 2)
