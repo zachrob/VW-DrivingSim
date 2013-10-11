@@ -1,0 +1,4 @@
+Simulink information available on Mathworks website.
+
+Link to video examples, including automotive examples:
+	http://www.mathworks.com/products/3d-animation/examples.html
