@@ -1,0 +1,48 @@
+Meeting 10-11
+
+Presentation outline
+-Intro
+	-Statistics
+	-Crash/comparison video (?)
+-Introduce the prevention system
+	-Simulation
+		-Next steps in our process
+-Simulation
+	-Matlab model
+	-Carsim Videos
+	-Realtime
+	-Track Design/Scenario
+		-Development system
+		-Final design
+	-Simulink 3d
+	-Final crash video
+	
+Make sure to ask if they have their preferred simulator.
+
+Zach works on the first slides, motivation for the project, statistics
+
+Viewport design
+	-Rearview at top of screen
+	-Dashboard about 1/3 of the way from the bottom of the screen
+		-Speedometer
+		-rpm
+		-performance margin (?) maybe only show afterwards
+		-light to display if intervention strategy is working
+	-Race display
+		-Lap number
+		-Last lap time
+		-Best lap time
+		
+Show afterwards prediction vs reality
+
+don't show user information about upcoming turns, we want the user to mess up in the simulation to help show off intervention strategy
+
+Presentation deadline: Wednesday
+	Dry run of presentation Wednesday, in conference room
+	
+Track design
+features we're including
+	Height differences that obscure turn (sharp turn after uphill)
+	obstacle that obscures vision of upcoming road
+	Decreasing radius turns
+Design track by plotting x, y, z values
