@@ -1,0 +1,8 @@
+- Started off discussing track design and format for passing
+    values from track into MATLAB model.
+
+- Discussed VW presentation, went over our portions with team and
+    recieved feedback. Posted our portion of presentation to their
+    team dropbox so that they can add their own slides for final
+    presentation.
+
