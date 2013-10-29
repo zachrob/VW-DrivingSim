@@ -1,0 +1,11 @@
+- Met with Josh Melson (Mathworks GTA) for direction on Simulink 3D
+	- Determined that Simulink was not installed on current Machine,
+		though MATLAB, Real-Time Windows Target, and Simulink 3D Animation were
+	- Determined that no editing of Simulink 3D files could be done without Simulink
+	- Discussed incorporating Driving wheel through Simulink Joystick input
+	- Discussed rendering of tracks/terrain and importing renders into Simulink 3D Animation.
+
+- Met with Dr. Ferris and Rebecca Brandy to briefly discuss current state of software on target Machine.
+	- Installed liscensed versions of MATLAB/Simulink on target PC
+	- Began discussion to get liscense for Simulink 3D animation (had been using trial
+		until now).
