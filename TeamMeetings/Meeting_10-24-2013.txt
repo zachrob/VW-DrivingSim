@@ -1,0 +1,9 @@
+Small meeting with only Michael, Zach, and Dirk.
+
+    - Dirk worked on modeling points for track in MATLAB.
+
+    - Zach worked with Simulink 3D examples to become familiar with Simulink and
+        learn how to modify it.
+
+    - Michael researched how to connect racing wheel input to Simulink, and worked
+        with Zach on Simulink 3D examples.
