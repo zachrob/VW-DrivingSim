@@ -1,0 +1,12 @@
+- Discussed Simulink 3D Animation and Real-Time Windows Target Software
+	- Ordered, license should be coming soon.
+
+- Attempted to set up Wheel input for Simulink
+	- Unable to modify Joystick input, since it is a Simulink 3D Animation
+		object, and needs both Simulink and Simulink 3D to modify.
+
+- Discussed next steps and Simulink Car model
+
+- Discussed evaluation with Dr. Ferris.
+	- His opinion was that evaluation outside of the project group was unnecessary.
+	- Testing between 7 people (3 CS students, 3 ME grad students, 1 ME Professor).
