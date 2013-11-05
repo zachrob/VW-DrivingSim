@@ -1,0 +1,6 @@
+Met with Mathworks representatives.
+	- With their help, set up a working trial until software key is available
+	- Discussed next steps and contacts at Mathworks and Virginia Tech to help with learning curve.
+	- Connected G27 to Simulink and read real-time wheel input
+		- must tweak and format wheel output to conform to model needs
+	- Ate donuts!
