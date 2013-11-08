@@ -1,0 +1,11 @@
+- played with jostick input and connecting joystick input to vehicle model.
+- updated vehicle model using joystick input (gas and brake).
+
+- Discussed stretch goals
+	- Head tracking
+	- tachometer on dash
+
+- Worked with existing example for Simulink 3D and modified the components so that we could replace their
+	hardcoded input file with our vehicle model.
+		- Removed unnecessary inputs/animations
+		- discovered that we need a different format for vehicle rotation than the model delivers.

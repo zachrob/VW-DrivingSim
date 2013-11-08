@@ -1,0 +1,17 @@
+- discussed data-mining .wrl track files for track data
+	- would allow us to easily use premade tracks for basic testing
+	- would allow us to only need to develop tracks once.
+
+- Discussed next steps:
+	- Updating vehicle model to properly handle steering wheel input.
+	- Updating vehicle model to send rotation data in proper format.
+	- Creating .wrl to track converting script.
+	- Adding updated car model to 3D animation.
+	- Modifying visual car model
+		- add static wheels (removed from initial example, because they were animated independent
+			of the car model, and we did not want to modify car model to provide needed
+			values)
+		- remove steering wheel (users will have physical wheel in front of them, virtual wheel unnecessary.
+		- add red indicator light
+		- add speedometer and desired graphs.
+
