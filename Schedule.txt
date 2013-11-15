@@ -3,3 +3,24 @@ Every Friday: Meeting with client team
 
 Oct 15: Develop either a video or a rough simulation prototype.
 Oct 24: Dr. Ferris has a meeting with VW, bringing our first prototype as an example of our project.
+
+
+// -------------------------------------------------------------------------------
+
+Dirk: 
+	- (MATLAB) script: Track.mat -> .wrl - Nov. 23rd
+	- Straight.wrl - Nov. 30th
+	- Circuit.wrl - Nov. 6th
+
+Zach: 
+	- Human Subjects Evaluation Paln - Nov. 23rd
+
+Mike/Zach:
+	- Update Car model with speedometer, indicator light, and wheels - Dec. 6th
+
+Mike, Zach, Sukhwan: 
+	- Integrate vehicle model w/ Simulink 3D - ongoing/ Dec. 6th
+
+Overall:
+	- Demos - Complete by Dec. 6th (thus Dec. 6th deadline for other elements)
+

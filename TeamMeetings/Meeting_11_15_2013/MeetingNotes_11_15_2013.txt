@@ -1,0 +1,5 @@
+- Showed progress with limited steering to team.
+- modified straightaway to work better.
+- Incorporated modified 3D car model into simulation.
+- Decided an upcoming schedule.
+- Considered interior car design with excercise.

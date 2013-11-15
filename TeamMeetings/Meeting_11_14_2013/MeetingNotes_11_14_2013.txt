@@ -1,0 +1,11 @@
+- Finished basic straightway track
+- Removed steering wheel from vehicle model and began planning static wheels
+- Began planning possible speedometers.
+- Set up design excercise for meeting on 15th.
+- Hooked up modified math model to 3D animation.
+- Successfully ran model on straightaway
+	- issues with left/right motion
+	- realized eventually that car model does not fully support left/right motion 
+		or how it takes away from forward momentum.
+	- Effectively car was "sliding on ice"
+	- limited turn angle for now.
