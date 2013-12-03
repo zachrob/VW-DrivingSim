@@ -1,0 +1,4 @@
+Updated textures on track.
+Discussed needed changes to car model.
+Discussed evaluation and upcoming requirements.
+Made minor changes to 3D car model.
