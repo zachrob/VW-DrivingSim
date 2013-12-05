@@ -1,0 +1,6 @@
+- Discussed newly added trees and guardrale
+- Discussed current problems with desired graphs and
+	plan to meet with TA for advice on whether they can
+	be implemented in time or not.
+- Discussed evaluations
+- Discussed final presentation and paper
