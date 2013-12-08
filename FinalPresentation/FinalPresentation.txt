@@ -8,3 +8,10 @@
 - Problems/Challenges and how they were addressed
 - Final Result: video/demo
 - What we learned about project management and teamwork
+
+
+To DO:
+	- Modify Initial/Research slide
+	- VW presentation Slide
+	- Add image of used test track/updated images of interface
+	- Demo?
