@@ -1,0 +1,4 @@
+- Completed usable plots
+- Played with light color (Y/G/B)
+- Discussed evaluations
+- found volunteers and performed evaluations

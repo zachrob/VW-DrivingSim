@@ -1,0 +1,5 @@
+- Met with Mathworks representative and discussed project
+- Modified Steering wheel angles
+- Implemented force-feedback
+- tweaked real-time block
+- modified plots
